@@ -1,0 +1,17 @@
+# Ignore Unity generated files
+Library/
+Logs/
+Temp/
+obj/
+Build/
+Builds/
+
+# Ignore Visual Studio files
+*.sln
+*.csproj
+*.userprefs
+.vscode/
+
+# Ignore Unity packages
+*.apk
+*.unitypackage
